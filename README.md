@@ -38,3 +38,4 @@ Proyek ini menggunakan **Discord RPC (Rich Presence)** untuk membuat status kust
 ```bash
 git clone https://github.com/kamu/discord-rich-presence.git
 cd discord-rich-presence
+tinggal ketik di terminal = node index.js
