@@ -1,7 +1,7 @@
 const RPC = require("discord-rpc");
 const client = new RPC.Client({ transport: "ipc" });
 
-const clientId = "1374644323915927615";
+const clientId = "copy_disini_untukClientnya";
 
 client.on("ready", () => {
   client.setActivity({
