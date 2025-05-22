@@ -10,7 +10,7 @@ Proyek ini menggunakan **Discord RPC (Rich Presence)** untuk membuat status kust
 
 ## 📸 Contoh Hasil
 
-![contoh](https://i.imgur.com/XXXXX.png) <!-- ganti dengan screenshot kalau kamu upload -->
+![contoh](https://github.com/J13PhantomByte/discord-rich-presence/blob/juan/contoh.png) 
 
 ---
 
